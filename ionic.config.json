@@ -1,0 +1,8 @@
+{
+  "name": "CD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "bd0ee5ac"
+}
